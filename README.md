@@ -16,6 +16,7 @@
     Stock Market predicting the price of the market based on some conditions & signals, 
     Sales predicting how much user will spend, Medicine predicting the life span of it , Video Recommendation to predict amount of time user spends on a video
     classification models predict a state
+    Sometimes unsupervised learning used as preprocess step
     
 ### Reinforcement Learning
     Branch of ML which works with unlabeled data
