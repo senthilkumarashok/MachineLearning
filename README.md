@@ -1,6 +1,7 @@
 # MachineLearning
 
 ### Timelines of Machine Learning 
+    Electronic Brain, Perceptron, Adaline, XOR, MultiLayered Perceptron, SVM, Deep neural networks
 
 ### Supervised Learning
     Branch of ML which works with labeled data
@@ -10,7 +11,7 @@
     
 ### UnSupervised Learning
     Branch of ML which works with unlabeled data
-    Goal is to 
+    Goal is to predict the state 
     Clustering , Dimensionality reduction
     Example Model is to classify whether incoming email is spam or not
     Stock Market predicting the price of the market based on some conditions & signals, 
