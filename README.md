@@ -1,4 +1,4 @@
 # MachineLearning
 
-## Supervised Learning Algorithms
-## UnSupervised Learning Algorithms
+### Supervised Algorithms
+### UnSupervised Algorithms
