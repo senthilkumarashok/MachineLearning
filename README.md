@@ -8,6 +8,11 @@
     Goal is to predict the labels for the new data
     Common models used were regression (Numerical Data) and classification (Categorical Data)
     Example Model is to predict the price of an house 
+
+    Commonly used algorithms based on the data
+    1. Regression
+    2. Classifier
+        * Naive Bayes Algorithms (Gauss, Mulitnomial, Bernoulli)  https://www.youtube.com/watch?v=l3dZ6ZNFjo0
     
 ### UnSupervised Learning
     Branch of ML which works with unlabeled data
