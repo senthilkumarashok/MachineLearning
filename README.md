@@ -11,6 +11,7 @@
 
     Commonly used algorithms based on the data
     1. Regression
+        * Logistic, Lasso, Linear
     2. Classifier
         * Naive Bayes Algorithms (Gauss, Mulitnomial, Bernoulli)  https://www.youtube.com/watch?v=l3dZ6ZNFjo0
     
