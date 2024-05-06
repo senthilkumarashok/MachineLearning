@@ -21,7 +21,7 @@
 #### RandomForest Algorithm
     * Many decision trees form the random forest
     * It's used for both regression and classification problem
-    * 
+    
         
     
 ### UnSupervised Learning
