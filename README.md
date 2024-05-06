@@ -14,6 +14,15 @@
         * Logistic, Lasso, Linear
     2. Classifier
         * Naive Bayes Algorithms (Gauss, Mulitnomial, Bernoulli)  https://www.youtube.com/watch?v=l3dZ6ZNFjo0
+
+#### Decision Trees
+    
+
+#### RandomForest Algorithm
+    * Many decision trees form the random forest
+    * It's used for both regression and classification problem
+    * 
+        
     
 ### UnSupervised Learning
     Branch of ML which works with unlabeled data
