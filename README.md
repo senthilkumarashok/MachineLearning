@@ -22,7 +22,10 @@
     * Many decision trees form the random forest
     * It's used for both regression and classification problem
     
-        
+#### SVM Support Vector machines
+    * Linear separable
+    * Handling Non Linear separable 
+    
     
 ### UnSupervised Learning
     Branch of ML which works with unlabeled data
