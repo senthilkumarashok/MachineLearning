@@ -29,8 +29,8 @@
     Kernel trick
     - By transforming the input space into a higher-dimensional space using kernel parameters such as polynomial or radial basis functions, 
     - SVMs can effectively classify data that isn't linearly separable in its original form.
-    - Linear separable
-    - Handling Non Linear separable 
+    - Linear separable using normal regression
+    - Handling Non Linear separable using kernel trick 
     
     
 ### UnSupervised Learning
