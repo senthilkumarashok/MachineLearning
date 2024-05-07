@@ -32,7 +32,9 @@
     - Linear separable using normal regression
     - Handling Non Linear separable using kernel trick 
     
-    
+#### Boruta
+    - wrapper around random forests
+
 ### UnSupervised Learning
     Branch of ML which works with unlabeled data
     Goal is to predict the state 
