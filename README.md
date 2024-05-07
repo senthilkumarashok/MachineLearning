@@ -23,14 +23,14 @@
     * It's used for both regression and classification problem
     
 #### SVM Support Vector machines
-    * Goal of the SVM if to find the decision boundary that maximally separates the different classes
-    * Hyperplane is the decision boundary that differentiate the two classes in the SVM
-    * This hyperplane is crucial because it maximizes the margin between data points of different classes, while minimizing the classification errors.
+    - Goal of the SVM if to find the decision boundary that maximally separates the different classes
+    - Hyperplane is the decision boundary that differentiate the two classes in the SVM
+    - This hyperplane is crucial because it maximizes the margin between data points of different classes, while minimizing the classification errors.
     Kernel trick
-    * By transforming the input space into a higher-dimensional space using kernel parameters such as polynomial or radial basis functions, 
-    * SVMs can effectively classify data that isn't linearly separable in its original form.
-    * Linear separable
-    * Handling Non Linear separable 
+    - By transforming the input space into a higher-dimensional space using kernel parameters such as polynomial or radial basis functions, 
+    - SVMs can effectively classify data that isn't linearly separable in its original form.
+    - Linear separable
+    - Handling Non Linear separable 
     
     
 ### UnSupervised Learning
