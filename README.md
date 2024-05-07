@@ -22,7 +22,7 @@
     * Many decision trees form the random forest
     * It's used for both regression and classification problem
     
-#### SVM Support Vector machines
+#### SVM ( Support Vector machines )
     - Goal of the SVM if to find the decision boundary that maximally separates the different classes
     - Hyperplane is the decision boundary that differentiate the two classes in the SVM
     - This hyperplane is crucial because it maximizes the margin between data points of different classes, while minimizing the classification errors.
@@ -33,7 +33,13 @@
     - Handling Non Linear separable using kernel trick 
     
 #### Boruta
+    - It's a feature selection algorithm
     - wrapper around random forests
+
+#### ROC ( Receiver operating characteristic curve )
+    - gives the classifier accuracy
+    - 
+    
 
 ### UnSupervised Learning
     Branch of ML which works with unlabeled data
