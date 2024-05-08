@@ -54,7 +54,8 @@
     classification models predict a state
     Sometimes unsupervised learning used as preprocess step
 
-    #### Dandrum
+#### Dendrogam
+    Tree diagram to illustrate clusters produced by hierarchial clustering
     
 ### Reinforcement Learning
     Branch of ML which works with unlabeled data
