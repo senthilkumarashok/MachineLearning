@@ -34,6 +34,9 @@
     
 #### Boruta
     - It's a feature selection algorithm
+
+### PCA (principle component analysis)
+    - method used for dimensionality reduction 
     - wrapper around random forests
 
 #### ROC ( Receiver operating characteristic curve )
