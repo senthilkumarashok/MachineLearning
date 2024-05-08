@@ -54,6 +54,13 @@
     classification models predict a state
     Sometimes unsupervised learning used as preprocess step
 
+    Hierarchial Clustering 
+        Divisive
+        Agglormate
+    Non-Hierarchial Clustering
+        Kmeans
+        Fuzzy        
+
 #### Dendrogam
     Tree diagram to illustrate clusters produced by hierarchial clustering
     
