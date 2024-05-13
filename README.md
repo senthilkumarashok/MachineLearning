@@ -76,6 +76,14 @@
 5. use the metrics to check the accuracy score
 6. Iterate if accuracy score is less
 
+### Data preparation steps
+
+1. Data Collection
+2. Data Cleansing
+3. Data Aggregation
+4. Labelling
+5. Transforming
+
 
 
     
