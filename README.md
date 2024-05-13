@@ -67,4 +67,15 @@
 ### Reinforcement Learning
     Branch of ML which works with unlabeled data
 
+### Model creation steps
+
+1. preprocess data
+2. use train, test selection to train the model
+3. use the appropriate algorithm to predict the label for those input values i mean fit the data to predict the values
+4. use the test data to validate
+5. use the metrics to check the accuracy score
+6. Iterate if accuracy score is less
+
+
+
     
