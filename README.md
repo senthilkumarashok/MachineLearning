@@ -84,6 +84,14 @@
 4. Labelling
 5. Transforming
 
+### Model 
+1. Model Technique selection
+2. Training
+3. Hyper Parameter setting
+4. Validattion
+5. Development and Testing
+6. Algorithm selection
+
 
 
     
