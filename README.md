@@ -91,6 +91,7 @@
 4. Validattion
 5. Development and Testing
 6. Algorithm selection
+7. Model optimization
 
 
 
