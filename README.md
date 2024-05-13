@@ -85,6 +85,7 @@
 5. Transforming
 
 ### Model 
+
 1. Model Technique selection
 2. Training
 3. Hyper Parameter setting
@@ -92,6 +93,17 @@
 5. Development and Testing
 6. Algorithm selection
 7. Model optimization
+
+### Evaluation
+
+1. Model Metric Evaluation
+2. confusion matrix
+3. Model perfomance evaluation
+4. Quality measurements
+5. KPI
+6. Final Determination
+
+
 
 
 
