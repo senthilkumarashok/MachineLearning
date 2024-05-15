@@ -73,6 +73,9 @@
 #### Dendrogam
     Tree diagram to illustrate clusters produced by hierarchial clustering
     
+### K-means clustering
+    - elbow technique
+    
 ### Reinforcement Learning
     Branch of ML which works with unlabeled data
 
