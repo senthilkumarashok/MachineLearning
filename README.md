@@ -1,5 +1,10 @@
 # MachineLearning
 
+### Correlation (Correlation coefficient methods)
+    Pearson
+    Spearman
+    Kendall
+
 ### Timelines of Machine Learning 
     Electronic Brain, Perceptron, Adaline, XOR, MultiLayered Perceptron, SVM, Deep neural networks
 
