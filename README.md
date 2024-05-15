@@ -1,9 +1,9 @@
 # MachineLearning
 
 ### Correlation (Correlation coefficient methods)
-    Pearson
-    Spearman
-    Kendall
+    Pearson - standard corrlation coefficient
+    Spearman - rank correlation coefficient
+    Kendall  - Kendall Tau correlation coefficient
 
 ### Timelines of Machine Learning 
     Electronic Brain, Perceptron, Adaline, XOR, MultiLayered Perceptron, SVM, Deep neural networks
