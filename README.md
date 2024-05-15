@@ -1,5 +1,9 @@
 # MachineLearning
 
+### Data Types
+    https://www.youtube.com/watch?v=5rUVYWfZOb8 (Qualitative Vs Quantitative)
+    https://www.youtube.com/watch?v=LuBD49SFpWs (Scales of Measurment Nominal, Ordinal, Interval, Ratio)
+
 ### Correlation (Correlation coefficient methods)
     Pearson - standard corrlation coefficient
     Spearman - rank correlation coefficient
