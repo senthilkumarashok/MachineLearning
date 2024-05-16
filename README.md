@@ -115,7 +115,12 @@
 5. KPI
 6. Final Determination
 
+### Classification Model Evaluation Metrics
 
+1. Accuracy
+2. Area under ROC curve
+3. Confusion Matrix
+4. Classification Report
 
 
 
