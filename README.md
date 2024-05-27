@@ -132,7 +132,8 @@ Hybrid filtering
 User based
 Item based
 
-**Matrix factorization** is an extensively used technique in collaborative filtering recommendation systems
+**Matrix factorization** is an extensively used technique in collaborative filtering recommendation systems. 
+
 **Matrix factorization** algorithms work by decomposing the user-item interaction matrix into the product of two lower dimensionality rectangular matrices.
 
 Dimensionality reduction
