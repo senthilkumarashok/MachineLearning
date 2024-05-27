@@ -124,14 +124,15 @@
 
 #### Recommender Systems
 
-Colloborative filtering
-Content filtering
-Hybrid
+Colloborative filtering - These systems try to match users with items based on items’ content (genre, color, etc) and users’ profiles (likes, dislikes, demographic information, etc). For example, Youtube might suggest me cooking videos based on the fact that I’m a chef, and/or that I’ve watched a lot of baking videos in the past, hence utilizing the information it has about a video’s content and my profile.
+Content filtering - They rely on the assumption that similar users like similar items. Similarity measures between users and/or items are used to make recommendations.
+Hybrid filtering
 
 User based
 Item based
 
-Matrix factorization
+**Matrix factorization** is an extensively used technique in collaborative filtering recommendation systems
+
 Dimensionality reduction
 
     
