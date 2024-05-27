@@ -122,6 +122,16 @@
 3. Confusion Matrix
 4. Classification Report
 
+#### Recommender Systems
 
+Colloborative filtering
+Content filtering
+Hybrid
+
+User based
+Item based
+
+Matrix factorization
+Dimensionality reduction
 
     
